@@ -1,0 +1,6 @@
+{
+  "name": "FX Calculator",
+  "description": "Ultra-luxury computational calculator with CAS algebra, matrix & calculus solvers, 2D interactive graphing, live FX finance engine, and handwriting math canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
